@@ -1,4 +1,4 @@
-mage Resizer Tool
+Image Resizer Tool
 📌 Objective
 
 Automate the process of resizing and converting multiple images in a folder using Python and Pillow.
